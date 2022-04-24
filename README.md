@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 ### Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dunmysad&repo=Htu_login)](https://github.com/Dunmysad/Htu_login)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dunmysad&repo=Htu_login&theme=radical)](https://github.com/Dunmysad/Htu_login)
