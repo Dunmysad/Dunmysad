@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Dunmysad 👋
 
 <!--
 **Dunmysad/Dunmysad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning Python
+- 💬 Ask me about what you wanna konw in my code
+- 🤔 How to reach me: 
+  - 📫 email: nfix3090@huimengwangyou.com
+
 
 ### ⚡GitHub Status
 ![Dunmysad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dunmysad&show_icons=true&theme=radical)
 
 
 ### ⚡Top Repositories
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dunmysad&repo=Htu_login&theme=radical)(https://github.com/Dunmysad/Htu_login)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dunmysad&repo=Htu_login&theme=radical)](https://github.com/Dunmysad/Htu_login)
