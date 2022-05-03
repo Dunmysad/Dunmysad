@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about what you wanna konw in my code
 - 🤔 How to reach me: 
   - 📫 email: nfix3090@huimengwangyou.com
+  - or you can *issues* and *pull requests*
 
 
 ### ⚡GitHub Status
