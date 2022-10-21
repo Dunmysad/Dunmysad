@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
 - 💬 Ask me about what you wanna konw in my code
 - 🤔 How to reach me: 
-  - 📫 email: 1401613533@qq.com
+  - 📫 email: 1928424157@stu.edu.cn
   - or you can *issues* and *pull requests*
 
 
