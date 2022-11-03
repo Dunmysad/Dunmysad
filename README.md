@@ -21,6 +21,10 @@ Here are some ideas to get you started:
   - 📫 email: 1928424157@stu.htu.edu.cn
   - or you can *issues* and *pull requests*
 
+'''html
+<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=7J6JjYCFn4OCrIqDlIGNhYDCj4OB" style="text-decoration:none;">给我写信</a>
+'''
+
 
 ### ⚡GitHub Status
 ![Dunmysad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dunmysad&show_icons=true&theme=radical)
